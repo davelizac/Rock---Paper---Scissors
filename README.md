@@ -1,7 +1,5 @@
 ## Rock Paper Scissors
 
-# Instructions
-
 This is rock, paper, scissors game. 
 
 The game starts by asking the player:
