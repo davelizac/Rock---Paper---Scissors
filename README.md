@@ -1,6 +1,6 @@
 ## Rock Paper Scissors
 
-This is rock, paper, scissors game. 
+This is a rock, paper, scissors game. 
 
 The game starts by asking the player:
 
